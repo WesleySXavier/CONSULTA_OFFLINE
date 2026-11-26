@@ -4,7 +4,7 @@ Aplicativo Android de consulta offline, derivado da estrutura do app USIS. A equ
 
 Este pacote não leva bases reais, contas Expo, IDs de distribuição, tokens ou credenciais dos projetos anteriores. Não há publicação automática ao instalar ou executar o modelo.
 
-![Fluxo da base até o aplicativo](docs/imagens/como-funciona.png)
+
 
 ## Comece aqui
 
